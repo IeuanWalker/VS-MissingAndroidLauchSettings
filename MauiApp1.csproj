@@ -87,6 +87,7 @@
 		</MauiImage>
 	</ItemGroup>
 	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="9.0.2" />
 		<PackageReference Include="Microsoft.Maui.Controls" Version="9.0.30" />
 	</ItemGroup>
 	<!-- Remove '.android.cs' files if target framework does not contain '-android' -->
